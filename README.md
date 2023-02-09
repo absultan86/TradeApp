@@ -1,0 +1,2 @@
+# TradeApp
+Analys Stock Market 
